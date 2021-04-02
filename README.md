@@ -1,5 +1,3 @@
-![](https://bloustein.rutgers.edu/wp-content/uploads/2017/05/Shield-RedTransparent.png | width=100)
-
 # Lesson 0 R Programming Assignment
 
 
